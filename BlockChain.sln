@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockChain", "BlockChain\BlockChain.csproj", "{21A94DE2-6B33-442A-9BE8-426E0EFD7E68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSA", "RSA\RSA.csproj", "{E2DDA214-1EAC-491A-A5C9-B5FA7D8E4069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChainClient", "BlockChainClient\BlockChainClient.csproj", "{4CF5A754-6B90-436E-930E-9C8FDC3AAD52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A94DE2-6B33-442A-9BE8-426E0EFD7E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A94DE2-6B33-442A-9BE8-426E0EFD7E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A94DE2-6B33-442A-9BE8-426E0EFD7E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A94DE2-6B33-442A-9BE8-426E0EFD7E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DDA214-1EAC-491A-A5C9-B5FA7D8E4069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DDA214-1EAC-491A-A5C9-B5FA7D8E4069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DDA214-1EAC-491A-A5C9-B5FA7D8E4069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DDA214-1EAC-491A-A5C9-B5FA7D8E4069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF5A754-6B90-436E-930E-9C8FDC3AAD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF5A754-6B90-436E-930E-9C8FDC3AAD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF5A754-6B90-436E-930E-9C8FDC3AAD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF5A754-6B90-436E-930E-9C8FDC3AAD52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EA7B57A-1317-49CF-99BD-ED60EDD6F143}
+	EndGlobalSection
+EndGlobal
