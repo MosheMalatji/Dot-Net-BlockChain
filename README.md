@@ -8,3 +8,7 @@ This project was built using ASP.Net
 
 ## GUI 
 ![Front End Client and main blockchain](https://github.com/MosheMalatji/Dot-Net-BlockChain/blob/master/Blockchain%20Screentshots/mine-page.png)
+
+![Front End Client and main blockchain](https://github.com/MosheMalatji/Dot-Net-BlockChain/blob/master/Blockchain%20Screentshots/MakeTransaction2.JPG)
+
+![Front End Client and main blockchain](https://github.com/MosheMalatji/Dot-Net-BlockChain/blob/master/Blockchain%20Screentshots/WalletGenerator.JPG)
