@@ -7,4 +7,4 @@ This project was built using ASP.Net
 * RSA(Backend)
 
 ## GUI 
-![Image description](MosheMalatji/Dot-Net-BlockChain/Blockchain Screentshots/mine-page.png)
+![Image description](https://www.github.com/MosheMalatji/Dot-Net-BlockChain/Blockchain Screentshots/mine-page.png)
