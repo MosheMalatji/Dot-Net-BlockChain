@@ -6,4 +6,5 @@ This project was built using ASP.Net
 * Blockchain Mining Client
 * RSA(Backend)
 
-##
+##GUI 
+![Image description](Blockchain Screentshots/mine-page.png)
